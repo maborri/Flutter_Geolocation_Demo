@@ -1,16 +1,6 @@
 # menu_demo
 
-A new Flutter project.
+The app has two parts:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- The home page has a quick implementation of geofencing where the user can enter a latitude/longitude/radius and start the service to see a green border if the user is inside the area or a red one if not.
+- The home page also has a button to access the UI demo.
